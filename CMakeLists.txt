@@ -176,8 +176,8 @@ register_project(descur
 
 # Register PARVMEC
 register_project(parvmec
-                 ${URL_PROTO}github.com${URL_SEP}ORNL-Fusion/PARVMEC.git
-                 master
+                 ${URL_PROTO}github.com${URL_SEP}jons-pf/PARVMEC.git
+                 master_dev
                  makegrid
                  libstell)
 
