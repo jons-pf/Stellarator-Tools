@@ -189,5 +189,5 @@ register_project(makegrid
 
 # Register LIBSTELL
 register_project(libstell
-                 ${URL_PROTO}github.com${URL_SEP}ORNL-Fusion/LIBSTELL.git
-                 master)
+                 ${URL_PROTO}github.com${URL_SEP}jons-pf/LIBSTELL.git
+                 master_dev)
